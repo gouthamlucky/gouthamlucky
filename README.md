@@ -24,11 +24,6 @@ I focus on optimizing server environments, managing control panels, ensuring sec
 - Implement SSL certificates and security best practices to protect data and services.
 - Automate routine tasks for efficient administration of Linux and Windows servers.
 
-## Projects & Repositories
-- [Web Hosting Automation](https://github.com/gouthams/web-hosting-automation) – Scripts automating cPanel, Plesk setups and SSL deployment.
-- [Virtualization Management](https://github.com/gouthams/virtualization-management) – Tools and guides for Xen and cloud server virtualization.
-- [System Security Toolkit](https://github.com/gouthams/system-security-toolkit) – Configurations and scripts for server hardening and SSL management.
-
 ## Get In Touch
 Connect with me for collaborations, questions, or professional networking!
 

@@ -28,7 +28,7 @@ I focus on optimizing server environments, managing control panels, ensuring sec
 Connect with me for collaborations, questions, or professional networking!
 
 - Email: gouthams248@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/n/yourprofile)
+- LinkedIn: [iwill update soon] (https://linkedin.com/n/yourprofile)
 
 ---
 

@@ -1,6 +1,9 @@
 <div align="center">
 
 # Hi, I'm Goutham S 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hello%20there%2C%20I'm%20Goutham%20S!&fontSize=40&animation=fadeIn" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=gouthams)
 
 </div>
 

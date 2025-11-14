@@ -1,35 +1,42 @@
-# Hi there, I'm Goutham S 👋
+<div align="center">
+
+# Hi, I'm Goutham S 👋
+
+[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgouthams&count_bg=%2379C83D&title_bg=%23555555&icon=administrator.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&animation=fadeIn" />
+
+</div>
 
 ## About Me
-I am a dedicated system and cloud administrator with specialized expertise in:
+I am a dedicated system and cloud administrator with expertise in:
 
 - 🌐 Web Administration (cPanel, Plesk, DirectAdmin, SolidCP, OviPanel)
-- ☁️ Cloud Administration (AccuCloud, Virtualization technologies like Xen)
-- 🐧 Linux & Windows Server Administration (including SSL and secure setups)
+- ☁️ Cloud Administration (AccuCloud, Xen virtualization)
+- 🐧 Linux & Windows Server Administration (including SSL and security)
 
-I focus on optimizing server environments, managing control panels, ensuring security, and automating cloud infrastructure.
+## Skills & Tools
 
-## Skills
-
-| Area               | Skills & Tools                                               |
-|--------------------|--------------------------------------------------------------|
-| Web Hosting Panels  | cPanel, Plesk, DirectAdmin, SolidCP, OviPanel                |
-| Server Virtualization| Xen, Virtualization Concepts, Cloud Infrastructure (AccuCloud)|
-| Operating Systems   | Linux (Ubuntu, CentOS), Windows Server Administration         |
-| Security           | SSL Management, Firewall Setup, System Hardening               |
+| Web Hosting Panels                                                  | Virtualization & Cloud                          | Operating Systems                      | Security & Automation                   |
+|--------------------------------------------------------------------|------------------------------------------------|--------------------------------------|----------------------------------------|
+| ![cPanel](https://img.shields.io/badge/cPanel-509BF5?style=for-the-badge&logo=cpanel&logoColor=white) ![Plesk](https://img.shields.io/badge/Plesk-FC5D35?style=for-the-badge&logo=plesk&logoColor=white) ![DirectAdmin](https://img.shields.io/badge/DirectAdmin-0088CC?style=for-the-badge&logo=directadmin&logoColor=white) ![SolidCP](https://img.shields.io/badge/SolidCP-228B22?style=for-the-badge) ![OviPanel](https://img.shields.io/badge/OviPanel-686868?style=for-the-badge) | ![Xen](https://img.shields.io/badge/Xen-004990?style=for-the-badge&logo=xen&logoColor=white) ![AccuCloud](https://img.shields.io/badge/AccuCloud-00BFFF?style=for-the-badge)  | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | ![SSL](https://img.shields.io/badge/SSL-Secure-green?style=for-the-badge) ![Automation](https://img.shields.io/badge/Automation-ff69b4?style=for-the-badge) |
 
 ## What I Do
-- Manage and configure popular web hosting control panels for streamlined server and website management.
-- Deploy and maintain cloud infrastructure with virtualization technologies to maximize scalability and reliability.
-- Implement SSL certificates and security best practices to protect data and services.
-- Automate routine tasks for efficient administration of Linux and Windows servers.
+- Manage and configure popular web hosting control panels for smooth server management.
+- Maintain cloud infrastructure with virtualization tools for scalability.
+- Implement SSL certificates and system security best practices.
+- Automate Linux and Windows server administration tasks.
 
-## Get In Touch
-Connect with me for collaborations, questions, or professional networking!
+## Projects & Repositories
+- [Web Hosting Automation](https://github.com/gouthams/web-hosting-automation) – Automation scripts for cPanel, Plesk, SSL deployment.
+- [Virtualization Management](https://github.com/gouthams/virtualization-management) – Guides and tools for Xen and virtualization.
+- [System Security Toolkit](https://github.com/gouthams/system-security-toolkit) – Server hardening and SSL management.
 
-- Email: gouthams248@gmail.com
-- LinkedIn: [iwill update soon] (https://linkedin.com/n/yourprofile)
+## Contact Me
+
+[![Gmail](https://img.shields.io/badge/gouthams248@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gouthams248@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
 ---
 
-*This README highlights my comprehensive skills in server management, hosting control panels, cloud infrastructure, and system security.*
+*This README is an automatic graphical portfolio highlighting my system, cloud, and server administration skills with popular tools.*

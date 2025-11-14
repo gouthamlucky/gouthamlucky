@@ -4,8 +4,6 @@
 
 [![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgouthams&count_bg=%2379C83D&title_bg=%23555555&icon=administrator.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&animation=fadeIn" />
-
 </div>
 
 ## About Me
@@ -26,11 +24,6 @@ I am a dedicated system and cloud administrator with expertise in:
 - Maintain cloud infrastructure with virtualization tools for scalability.
 - Implement SSL certificates and system security best practices.
 - Automate Linux and Windows server administration tasks.
-
-## Projects & Repositories
-- [Web Hosting Automation](https://github.com/gouthams/web-hosting-automation) – Automation scripts for cPanel, Plesk, SSL deployment.
-- [Virtualization Management](https://github.com/gouthams/virtualization-management) – Guides and tools for Xen and virtualization.
-- [System Security Toolkit](https://github.com/gouthams/system-security-toolkit) – Server hardening and SSL management.
 
 ## Contact Me
 
